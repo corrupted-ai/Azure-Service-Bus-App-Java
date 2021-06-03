@@ -12,11 +12,6 @@
 	<artifactId>Spinner</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Spinner</name>
-	<appName>Spinner-ai<appName>
-	<region>East US<region>
-	<pricingTier>F1<pricingTier>
-	<subscriptionId>f819bfbf-5e7f-4c67-9360-fb9f1e5ecc09<subscriptionId>
-	<resourceGroup>SkyScannerRapidAPI<resourceGroup>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
